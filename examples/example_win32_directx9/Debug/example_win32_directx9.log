@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Code\imgui-master\examples\example_win32_directx9\main.cpp(105,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Code\imgui-master\examples\example_win32_directx9\main.cpp(106,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Code\imgui-master\examples\example_win32_directx9\main.cpp(335,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Code\imgui-master\examples\example_win32_directx9\main.cpp(335,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  example_win32_directx9.vcxproj -> D:\Code\imgui-master\examples\example_win32_directx9\Debug\example_win32_directx9.exe
